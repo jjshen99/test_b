@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="App_BB Table" language="en" table="x_snc_app_bb_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>App_BB Table</label>
+            <language>en</language>
+            <name>x_snc_app_bb_table</name>
+            <plural>App_BB Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jj</sys_created_by>
+            <sys_created_on>2016-01-06 19:55:10</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ab88ede54f70120070ee0fb18110c792</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>App_BB Table</sys_name>
+            <sys_package display_value="App_BB" source="x_snc_app_bb">cb88e5e54f70120070ee0fb18110c7ce</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="App_BB">cb88e5e54f70120070ee0fb18110c7ce</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_app_bb_table__en</sys_update_name>
+            <sys_updated_by>jj</sys_updated_by>
+            <sys_updated_on>2016-01-06 19:55:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
